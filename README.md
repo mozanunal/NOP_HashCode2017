@@ -5,5 +5,5 @@ Our solution for Google HashCode 2017 practice and online qualification question
 ## Team Members
 * Elanur Yoktan
 * Emir Can Yaman
-* Ertuğrul Çınar
+* Ertuğrul Çinar
 * Mehmet Ozan Ünal
